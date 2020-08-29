@@ -1,0 +1,23 @@
+{
+  "name": "uploadimage",
+  "private": true,
+  "version": "1.0.0",
+  "description": "upload an image from a flutter app",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon index.js"
+  },
+  "keywords": [
+    "upload",
+    "image"
+  ],
+  "author": "robert-from dev.to tutorial\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "multer": "^1.4.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.4"
+  }
+}
